@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "XNnmti/lsJ11HM251K84xfAhfEu/U2WJkMndXVFE1g6wsjz+VVWEldKmDV8BOMYBHR5zNRCyiJFDCFPZz9V2Jg==",
+  "success": true,
+  "projectFilePath": "/home/kris/repo/testing/pullDatatest/pullingdata/pullingdata.csproj",
+  "expectedPackageFiles": [
+    "/home/kris/.nuget/packages/newtonsoft.json/13.0.1/newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
